@@ -10,9 +10,9 @@ def search(arr, n):
 
 #print(search([1, 2, 3, 50, 70], ))
 
-thousend = []
+thousand = []
 for i in range(1000):
-    thousend.append(i)
+    thousand.append(i)
 
 hundred = []
 for i in range(100):
